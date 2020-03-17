@@ -1,2 +1,2 @@
 <h1> PREVIEW </h1>
-<img src="img/preview.jpg">
+<img src="img/preview.png">
